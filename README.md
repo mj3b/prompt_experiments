@@ -15,7 +15,7 @@ Herein lies a compendium of prompt engineering experiments, woven from the threa
 
 ## 🔍 Experiments
 
-Delve into the experiments and uncover .txt and .md files. Each tome contains a different incantation, demonstrating the subtle alchemy of prompt engineering. These experiments are organized into two categories to aid in your quest for knowledge:
+Delve into the experiments and uncover .txt and .md files. Each tome contains outputs of various incantations; going forward we will make sure to include those incantations at the top of each file. These experiments are organized into two categories to aid in your quest for knowledge:
 
 - GPT_NONFICT 🧪
 - GPT_FICTION 🦉
