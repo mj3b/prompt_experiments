@@ -1,7 +1,7 @@
 ### The Pre-Prompt Prompt Harvest:
 - First prompt: "Your objective, given all your knowledge and capabilities and given your constraints, is to help me write well-engineered prompts (for prompting GPT-4) to design an award-winning interactive murder mystery dinner. Your first task is to determine your first task."
 
-- Second prompt (after reviewing initial output): Good. I've been working with GPT-4 to get it to add a kind of recursive detailing to its creations when I prompt it. Can you add something like that to each prompt? I like it when there's like one level of recursive detail that fills in the textual 'picture' a bit more.
+- Second prompt (after reviewing initial output): "Good. I've been working with GPT-4 to get it to add a kind of recursive detailing to its creations when I prompt it. Can you add something like that to each prompt? I like it when there's like one level of recursive detail that fills in the textual 'picture' a bit more."
 
 ### **The Prompts:**
 NB There were eight prompts total -- I have yet to get to the interaction/engagement mechanics, the scripts/dialogue, and the resolution/conclusion.
