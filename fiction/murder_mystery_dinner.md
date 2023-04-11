@@ -61,13 +61,10 @@ As the night comes to an end and the authorities arrive, the guests and performe
 
 In "The Crimson Carnival: The Specter of the Carousel," the participants are taken on a thrilling, suspenseful, and emotionally charged journey. The murder mystery dinner offers an immersive experience that expertly combines campy aesthetics with a complex, interwoven plot, keeping guests guessing until the very end.
 
-Setting
-=======
+Setting & Environment
+==================
 
 The Crimson Carnival is an extravagant, late 19th-century traveling carnival, currently stationed on the outskirts of a quaint European village. The murder mystery dinner takes place under the elaborate, red-and-gold striped main tent. The tent is adorned with flickering lanterns and candles, casting a warm, mysterious glow on the surrounding festivities.
-
-Environment
-===========
 
 The interior of the tent is divided into several distinct areas, each with a unique atmosphere and purpose.
 
