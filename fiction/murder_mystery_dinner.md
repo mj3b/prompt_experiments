@@ -149,7 +149,7 @@ Viktor Petrov (The Strongman):
 -   Secret: He's been smuggling illegal contraband using the carnival as a cover and is afraid of being discovered.
 
 Dr. Henrietta Finch (The Human Encyclopedia):
-=============================================
+------------------------------
 
 -   Appearance: A middle-aged woman with graying hair pulled back into a tight bun, wearing wire-rimmed glasses and a tailored tweed suit.
 
