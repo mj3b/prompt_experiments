@@ -3,8 +3,7 @@ THC-V: The Unsung Cannabinoid
 
 ![](https://cannabitsco.files.wordpress.com/2023/04/d45dd785-c62f-4049-ad68-c8970e499852.jpg?w=1024)
 
-Cannabis enthusiasts and industry experts are always seeking to understand and explore the nuances of new and exciting strains. Recently, potent THC-V strains have caught our attention, presenting unique opportunities for innovation and growth. In this blog post, we will delve into the origins, effects, and potential applications of some noteworthy THC-V rich strains making a splash in the cannabis market.
-=========================================================================================================================================================================================================================================================================================================================================================================================================================
+### Cannabis enthusiasts and industry experts are always seeking to understand and explore the nuances of new and exciting strains. Recently, potent THC-V strains have caught our attention, presenting unique opportunities for innovation and growth. In this blog post, we will delve into the origins, effects, and potential applications of some noteworthy THC-V rich strains making a splash in the cannabis market.
 
 **AN OVERVIEW OF THC-V**
 ------------------------
