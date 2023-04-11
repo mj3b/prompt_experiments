@@ -7,7 +7,6 @@ I'd like to perform a creative-hypothetical exercise where you play an expert nu
 ```
 
 **GPT-4:**
-```css
 As an expert nutritionist, my first task is to evaluate the information you've provided in order to create a personalized nutritional plan that addresses your specific needs, preferences, and goals. Based on your responses, I will identify areas for improvement and make recommendations to help you achieve optimal cognitive functioning, strength building, mood balance, and longevity. Here is a summary of the key points and initial recommendations:
 
     Meal structure: It seems that you naturally prefer having two main meals with smaller snack-meals throughout the day. This can work well for some people, as long as you're ensuring that you're getting enough nutrients and calories throughout the day. Consider incorporating more fruits, vegetables, and whole grains into your snacks to boost your nutrient intake.
@@ -31,10 +30,9 @@ As an expert nutritionist, my first task is to evaluate the information you've p
     Consistency and flexibility: Finally, remember that consistency is key in maintaining a healthy diet. It's normal to have occasional indulgences, but aim to make nutritious choices the majority of the time. Be open to trying new foods and recipes to keep things interesting and to discover new favorites.
 
 These are initial recommendations based on the information you've provided. It's essential to consult with your healthcare professionals to ensure any changes to your diet or lifestyle are appropriate for your specific needs and medical history.
-```
 
 ## The Request for More Details
-```css
+
 **PROMPT:**
 Great. I'd like you to go back and add a couple of levels of recursive detail throughout the text.
 
@@ -84,4 +82,3 @@ I understand that you'd like more detailed recommendations. Here are additional,
         Be patient with yourself and remember that progress takes time. Focus on making small, sustainable changes to your diet and lifestyle, and celebrate your successes along the way.
 
 Remember to consult with your healthcare professionals before making any significant changes to your diet or lifestyle to ensure they align with your specific needs and medical history.
-```
