@@ -68,27 +68,27 @@ The Crimson Carnival is an extravagant, late 19th-century traveling carnival, cu
 
 The interior of the tent is divided into several distinct areas, each with a unique atmosphere and purpose.
 
-The Entrance Hall:
+#### The Entrance Hall:
 
 1.  A lush red carpet guides guests through a dimly lit corridor lined with antique mirrors reflecting distorted images of their own visages. The walls are adorned with vintage carnival posters and eerie paintings of clowns and jesters. The Entrance Hall serves as a transition space, where guests can shed their modern selves and step into the world of the Crimson Carnival.
 
-The Dining Area:
+#### The Dining Area:
 
 1.  In the heart of the tent, guests gather around a grand, circular table draped in crimson velvet. The table is lavishly set with gold-trimmed china, crystal goblets, and silver candelabras. Above, an intricate chandelier made of twisted brass and shimmering crystals casts a mesmerizing pattern on the ceiling. A vintage carousel horse stands at the center of the table, acting as an ominous centerpiece.
 
-The Stage:
+#### The Stage:
 
 1.  A small, ornate wooden stage sits at one end of the tent, with lush velvet curtains drawn back to reveal a painted backdrop depicting a whimsical carnival scene. Throughout the evening, performers in elegant period costumes enact the unfolding drama, while a string quartet plays a haunting, yet enchanting melody.
 
-The Fortune Teller's Corner:
+#### The Fortune Teller's Corner:
 
 1.  Tucked away behind a beaded curtain, a mystical fortune teller awaits guests in a cozy, dimly-lit corner. An antique crystal ball illuminates the space, casting eerie shadows on the plush, jewel-toned cushions and intricate tapestries lining the walls. The fortune teller reads tarot cards and offers cryptic clues that could help solve the murder mystery.
 
-The Sideshow:
+#### The Sideshow:
 
 1.  A small area adjacent to the Dining Area houses an array of peculiar exhibits, such as a glass-encased, two-headed snake and a mysterious shrunken head. Guests are encouraged to explore the Sideshow during breaks in the dinner, discovering hidden clues among the curiosities.
 
-Notable Features and Decorations:
+#### Notable Features and Decorations:
 
 -   A series of macabre paintings and sculptures depicting famous carnival accidents and tragedies are scattered throughout the tent, adding to the unsettling atmosphere.
 
@@ -216,43 +216,43 @@ These diverse and intriguing characters will provide a rich tapestry of motives,
 Clues and Puzzles
 =================
 
-The Bloodstained Dagger (Clue 1)
+#### The Bloodstained Dagger (Clue 1)
 
 Significance: This is the weapon used to murder Celeste Dubois. It is a prop from Ophelia Lovelace's sideshow act.
 
 How it leads to the next clue: Upon closer inspection, guests will notice a faint, barely visible inscription on the dagger's handle, reading "O. Lovelace." This points towards Ophelia's involvement and leads to the next clue.
 
-The Old Journal (Clue 2)
+#### The Old Journal (Clue 2)
 
 Significance: This journal belongs to Jasper Hawthorne, the carousel operator, and contains information about his blackmailing schemes.
 
 How it leads to the next clue: In the journal, guests will find a small note with a cryptic riddle that, when solved, directs them to search for a hidden compartment in one of the antique trunks in the Sideshow.
 
-Hidden Compartment (Clue 3)
+#### Hidden Compartment (Clue 3)
 
 Significance: The hidden compartment in the antique trunk contains a series of love letters exchanged between Celeste Dubois and Sebastian LeBlanc, revealing their secret relationship.
 
 How it leads to the next clue: One of the letters mentions a private rendezvous at the carousel, where Celeste intended to confront Sebastian about his relationship with Isabella Marquez. This information leads guests to investigate the carousel further.
 
-Torn Fabric (Clue 4)
+#### Torn Fabric (Clue 4)
 
 Significance: A small piece of torn fabric is found caught on a carousel pole, matching the material from Ophelia's gown.
 
 How it leads to the next clue: The torn fabric suggests that Ophelia was at the carousel around the time of the murder. Guests should question Ophelia, who will nervously reveal that she overheard Celeste and Isabella arguing near the carousel earlier in the evening.
 
-The Broken Locket (Clue 5)
+#### The Broken Locket (Clue 5)
 
 Significance: This locket contains a picture of Madame Rosaline and Ophelia Lovelace, revealing their secret sisterly relationship.
 
 How it leads to the next clue: The locket is found near the scene of the crime, and its contents suggest that Celeste may have discovered the sisters' secret. A note inside the locket has an enigmatic reference to the Fortune Teller's Corner, prompting guests to visit Lucian Beaumont for further insight.
 
-The Tarot Card (Clue 6)
+#### The Tarot Card (Clue 6)
 
 Significance: Lucian Beaumont performs a tarot card reading for the guests. The card drawn, "The Lovers," suggests the motive for the murder was rooted in love or a romantic entanglement.
 
 How it leads to the next clue: The tarot card reinforces the suspicion that the love triangle between Celeste, Sebastian, and Isabella played a role in the murder. However, it also implies that another love-based motive may exist, leading guests to investigate the relationships between other characters, such as Ophelia and Madame Rosaline.
 
-The Financial Ledger (Clue 7)
+#### The Financial Ledger (Clue 7)
 
 Significance: This ledger details the carnival's dire financial situation and reveals that Ophelia has been secretly funneling money to Madame Rosaline.
 
