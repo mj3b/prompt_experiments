@@ -1,6 +1,6 @@
 This file will be updated with example prompts and outputs detailing requests for ChatGPT-4 to go back and recursively flesh out a text. You might wonder if you could just ask for more details directly. ¯\(ツ)/¯ You probably could -- I've had success with asking for more concrete, specific details. But who doesn't love a little fractal-like linguistic exploration?
 
-## The Nutritionist's Plan
+## The Nutritionist's Plan (11 April 2023)
 
 **PROMPT:**
 
