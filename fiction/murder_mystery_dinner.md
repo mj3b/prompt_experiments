@@ -1,15 +1,15 @@
 ### The Pre-Prompt Prompt Enhancements:
-- 1st prompt: "Your objective, given all you knowledge and capabilities and given your constraints, is help me write well-engineered prompts (for prompting GPT-4) to design an award-winning interactive murder mystery dinner. Your first task is to determine your first task."
+- First prompt: "Your objective, given all your knowledge and capabilities and given your constraints, is to help me write well-engineered prompts (for prompting GPT-4) to design an award-winning interactive murder mystery dinner. Your first task is to determine your first task."
 
-- 2nd prompt (after reviewing initial output): Good. I've been working with GPT-4 to get it to add a kind of recursive detailing to its creations when I prompt it. Can you add something like that to each prompt? I like it when there's like one level of recursive detail that fills in the textual "picture" a bit more.
+- Second prompt (after reviewing initial output): Good. I've been working with GPT-4 to get it to add a kind of recursive detailing to its creations when I prompt it. Can you add something like that to each prompt? I like it when there's like one level of recursive detail that fills in the textual 'picture' a bit more.
 
 ### **The Prompts:**
-NB There were 8 prompts total -- I have yet to get to the interaction/engagtement mechanics, the scripts/dialogue, and the resolution/conclusion.
+NB There were eight prompts total -- I have yet to get to the interaction/engagement mechanics, the scripts/dialogue, and the resolution/conclusion.
 
 1. Plot: "Outline a suspenseful and engaging plot for a murder mystery dinner, including the events leading up to the murder, the murder itself, and the subsequent investigation. Clearly identify the character responsible for the murder and their motive. For each key event, describe how it impacts the overall story and the emotions it evokes in the participants. Additionally, provide hints that suggest the murderer's identity without giving it away too easily." (n.b. I also instructed it to be camp, as in "an aesthetic style and sensibility that regards something as appealing because of its bad taste and ironic value")
 2. Setting: "Please describe a unique and captivating setting for an interactive murder mystery dinner that would immerse participants in the atmosphere and story. Additionally, provide vivid details about the environment, including the specific rooms or areas, and any notable features or decorations."
-4. "Provide a list of 8-10 diverse and intriguing characters for a murder mystery dinner, each with a brief description of their appearance, personality, and role in the story. For each character, also include one secret or hidden motive that could potentially tie them to the murder."
-5. Clues and Puzzles: "Design a series of 5-7 interconnected clues and puzzles that will challenge participants and help them unravel the mystery during the dinner. For each clue or puzzle, explain its significance to the plot, and how it leads to the discovery of the next piece of information."
+3. Characters: "Provide a list of 8-10 diverse and intriguing characters for a murder mystery dinner, each with a brief description of their appearance, personality, and role in the story. For each character, also include one secret or hidden motive that could potentially tie them to the murder."
+4. Clues and Puzzles: "Design a series of 5-7 interconnected clues and puzzles that will challenge participants and help them unravel the mystery during the dinner. For each clue or puzzle, explain its significance to the plot, and how it leads to the discovery of the next piece of information."
 
 ### **The Output:**
 
