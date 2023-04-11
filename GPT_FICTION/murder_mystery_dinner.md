@@ -4,7 +4,7 @@
 - Second prompt (after reviewing initial output): ```"Good. I've been working with GPT-4 to get it to add a kind of recursive detailing to its creations when I prompt it. Can you add something like that to each prompt? I like it when there's like one level of recursive detail that fills in the textual 'picture' a bit more."```
 
 ### **The Prompts:**
-NB There were eight prompts total -- I have yet to get to the interaction/engagement mechanics, the scripts/dialogue, and the resolution/conclusion.
+There were eight prompts total -- I have yet to get to the interaction/engagement mechanics, the scripts/dialogue, and the resolution/conclusion.
 
 1. Plot: ```Outline a suspenseful and engaging plot for a murder mystery dinner, including the events leading up to the murder, the murder itself, and the subsequent investigation. Clearly identify the character responsible for the murder and their motive. For each key event, describe how it impacts the overall story and the emotions it evokes in the participants. Additionally, provide hints that suggest the murderer's identity without giving it away too easily.```
 2. Setting: ```Please describe a unique and captivating setting for an interactive murder mystery dinner that would immerse participants in the atmosphere and story. Additionally, provide vivid details about the environment, including the specific rooms or areas, and any notable features or decorations.```
