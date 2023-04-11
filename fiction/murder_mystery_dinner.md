@@ -47,7 +47,7 @@ Hugo and Esmeé, the conjoined twins, reveal the hidden passage they discovered,
 
 The investigation reaches its climax as the guests are invited to cast their votes on the murderer's identity. The majority of the guests suspect Jasper, as the evidence seems to point directly at him. However, a select few guests, who have paid close attention to the hints and clues, suspect the true culprit: Ophelia Lovelace, the Bearded Lady.
 
-Act 4: The Reveal
+### Act 4: The Reveal
 
 As the votes are tallied, Madame Rosaline announces Jasper as the prime suspect. Just as he's about to be apprehended, a guest with a keen eye for detail steps forward and reveals their suspicion of Ophelia.
 
