@@ -7,7 +7,7 @@ I'd like to perform a creative-hypothetical exercise where you play an expert nu
 ```
 
 **GPT-4:**
-```
+```css
 As an expert nutritionist, my first task is to evaluate the information you've provided in order to create a personalized nutritional plan that addresses your specific needs, preferences, and goals. Based on your responses, I will identify areas for improvement and make recommendations to help you achieve optimal cognitive functioning, strength building, mood balance, and longevity. Here is a summary of the key points and initial recommendations:
 
     Meal structure: It seems that you naturally prefer having two main meals with smaller snack-meals throughout the day. This can work well for some people, as long as you're ensuring that you're getting enough nutrients and calories throughout the day. Consider incorporating more fruits, vegetables, and whole grains into your snacks to boost your nutrient intake.
@@ -34,7 +34,7 @@ These are initial recommendations based on the information you've provided. It's
 ```
 
 ## The Request for More Details
-```
+```css
 **PROMPT:**
 Great. I'd like you to go back and add a couple of levels of recursive detail throughout the text.
 
