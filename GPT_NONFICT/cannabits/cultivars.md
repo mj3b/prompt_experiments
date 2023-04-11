@@ -1,3 +1,6 @@
+# Pioneering Cannabis Cultivars
+## A Deep Dive into the Art and Science of Breeding Elite Strains
+
 INTRODUCTION
 ------------
 
