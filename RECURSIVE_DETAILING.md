@@ -1,7 +1,5 @@
 This file will be updated with example prompts and outputs detailing requests for GPT-4 to go back and recursively flesh out a text. You might wonder if you could just ask for more details directly. ¯\(ツ)/¯ You probably could, but who doesn't love some fractal-like linguistic exploration?
 
-**Model: GPT-4**
-
 **Prompt:**
 
 I'd like to perform a creative-hypothetical exercise where you play an expert nutritionist. Please note that I realize that you're not a doctor or healthcare or nutritionist. I'm consulting with a full team of healthcare professionals. But we all want to see what GPT-4 can do as an expert nutritionist. So, first, take a look at this questionnaire and my answers, {[filled-out nutritionist intake questionnaire]}, and I want you to respond from the POV of an expert nutritionist. Your first task is to determine your first task.
