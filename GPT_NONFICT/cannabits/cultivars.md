@@ -1,8 +1,7 @@
 # Pioneering Cannabis Cultivars
 ## A Deep Dive into the Art and Science of Breeding Elite Strains
 
-INTRODUCTION
-------------
+### INTRODUCTION
 
 The ever-evolving world of cannabis has witnessed an extraordinary explosion of innovation and advancement, particularly in the realm of cannabis breeding. With countless cultivars boasting unique properties and consumer demand for novel experiences growing unabated, the art and science of creating elite strains have emerged as a key focal point for cannabis enthusiasts and industry professionals alike. In this extensive exploration, we will take you on a journey through the complex and captivating process of cannabis breeding, delving into the world of genetics, examining the most influential strains in cannabis history, and uncovering the future of cannabis cultivars.
 
