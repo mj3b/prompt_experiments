@@ -2,7 +2,7 @@ This file will be updated with example prompts and outputs detailing requests fo
 
 ## The Nutritionist's Plan
 
-**Prompt:**
+**PROMPT:**
 
 I'd like to perform a creative-hypothetical exercise where you play an expert nutritionist. Please note that I realize that you're not a doctor or healthcare or nutritionist. I'm consulting with a full team of healthcare professionals. But we all want to see what GPT-4 can do as an expert nutritionist. So, first, take a look at this questionnaire and my answers, {[filled-out nutritionist intake questionnaire]}, and I want you to respond from the POV of an expert nutritionist. Your first task is to determine your first task.
 
@@ -88,7 +88,7 @@ Remember to consult with your healthcare professionals before making any signifi
 
 ### Consolidation
 
-**The Prompt:**
+**PROMPT:**
 
 Ok bring that all together for me, your first response and your second response with the details
 
