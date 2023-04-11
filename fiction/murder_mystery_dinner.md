@@ -6,13 +6,9 @@
 
 ### **The Output:**
 
-## The Crimson Carnival:
-## The Specter of the Carousel
-====================
-
+## The Crimson Carnival: The Specter of the Carousel
 
 ## Plot
-----
 
 ### Act 1: The Gathering
 
