@@ -1,4 +1,4 @@
-This file will be updated with example prompts and outputs detailing requests for GPT-4 to go back and recursively flesh out a text. You might wonder if you could just ask for more details directly. ¯\(ツ)/¯ You probably could, but who doesn't love some fractal-like linguistic exploration?
+This file will be updated with example prompts and outputs detailing requests for ChatGPT (w/ Model: GPT-4) to go back and recursively flesh out a text. You might wonder if you could just ask for more details directly. ¯\(ツ)/¯ You probably could, but who doesn't love some fractal-like linguistic exploration?
 
 **Prompt:**
 
