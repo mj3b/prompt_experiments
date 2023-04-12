@@ -102,7 +102,7 @@ In conclusion, _Hamlet on the Holodeck_ provides a thought-provoking and compreh
 
 ### GPT's quotes from _Hamlet and the Holodeck_
 
-**NB Please be advised that one main area we've seen GPT "hallucinating" in is doing extensive quote-production like this**
+**NB Please be advised that one main area I've seen GPT "hallucinating" in is doing extensive quote-production like this**
 
 #### On procedural storytelling and the potential for narratives to emerge from rule-based systems.
 
