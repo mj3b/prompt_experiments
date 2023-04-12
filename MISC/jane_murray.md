@@ -100,7 +100,9 @@ Murray emphasizes the responsibilities of both creators and consumers of digital
 
 In conclusion, _Hamlet on the Holodeck_ provides a thought-provoking and comprehensive examination of the potential of digital media to revolutionize storytelling. Janet Murray highlights the unique affordances of digital technology and explores the new narrative forms that emerge from them, while also considering the challenges and ethical implications that come with these innovations. The book remains an influential work in the fields of digital media, interactive storytelling, and game studies.
 
-### GPT's pull of quotes from _Hamlet and the Holodeck_
+### GPT's quotes from _Hamlet and the Holodeck_
+
+_NB The main area I see GPT "hallucinating" is in extensive quote-pulling like this, so... be advised.
 
 #### On procedural storytelling and the potential for narratives to emerge from rule-based systems.
 
