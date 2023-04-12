@@ -1,6 +1,6 @@
 ### **gitnomad:** 
 
-Give me a detailed and specific expert comprehensive explanation of Hamlet on the Holodeck by Janet Murray.
+Give me a detailed and specific expert comprehensive explanation of _Hamlet on the Holodeck_ by Janet Murray.
 
 ### **GPT-4:** 
 
