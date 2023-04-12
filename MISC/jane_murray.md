@@ -133,7 +133,7 @@ In conclusion, "Hamlet on the Holodeck" provides a thought-provoking and compreh
 6. "In the digital medium, the boundary between fiction and non-fiction, between the imagined world and the historical world, is much more fluid than in print."
 7. "The encyclopedic affordance of digital media allows creators to build intricate, expansive worlds that can immerse users in rich, detailed environments."
 
-### On hypertext fiction and its role as an emerging narrative form:
+#### On hypertext fiction and its role as an emerging narrative form:
 
 1. "Hypertext is a technology for creating branching and networked structures that can be navigated by the reader in a flexible manner."
 2. "Hypertext fiction is the most successful and influential of the early forms of digital narrative."
@@ -143,7 +143,7 @@ In conclusion, "Hamlet on the Holodeck" provides a thought-provoking and compreh
 6. "Hypertext allows writers to represent the complexity and nonlinearity of life experiences more accurately than traditional linear narratives."
 7. "The challenge of hypertext fiction is to create narratives that are engaging and meaningful, while also taking advantage of the unique affordances of the digital medium."
 
-### On interactive drama and its potential as an emerging narrative form:
+#### On interactive drama and its potential as an emerging narrative form:
 
 1. "Interactive drama is an art form that combines the immediacy of live performance with the responsiveness of a video game, creating a new kind of experience for the audience."
 2. "In an interactive drama, the user becomes a participant in the story, engaging in conversation and interaction with virtual characters and influencing the outcome of the narrative."
