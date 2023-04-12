@@ -19,6 +19,7 @@ Delve into the experiments and uncover .txt and .md files. Each tome contains ou
 
 - GPT_NONFICT 🧪
 - GPT_FICTION 🦉
+- PY_SCRIPTS 🐍
 
 ## 👥 How to Contribute
 
