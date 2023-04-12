@@ -15,7 +15,7 @@ This repository contains a diverse array of prompt engineering experiments, craf
 
 ## 🔍 Experiments
 
-In an ongoing effort to improve the learning experience, I have started including prompts within the .txt and .md files. For .py files and .mp4 output files, you will find a dedicated README file with the necessary prompts and explanations. The experiments are organized into three well-structured categories:
+In an ongoing effort to improve the learning experience, I have started including prompts within the .txt and .md files. For .py files and .mp4 output files, you will find a dedicated README file with the necessary prompts and explanations. The experiments are organized into three categories:
 
 1. GPT_NONFICT 🌐
 2. GPT_FICTION 🕊️
