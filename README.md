@@ -19,7 +19,8 @@ In an ongoing effort to improve the learning experience, I have started includin
 
 1. GPT_NONFICT 🌐
 2. GPT_FICTION 🕊️
-3. PY_SCRIPTS 🌿
+3. MISC 🔮
+4. PY_SCRIPTS 🌿
 
 This new approach ensures that you can fully appreciate the context and intent behind each experiment, enabling you to learn more effectively.
 
