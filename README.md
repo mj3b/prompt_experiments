@@ -26,7 +26,7 @@ Delve into the experiments and uncover .txt, .md, and .py files. Each tome conta
 Wish to share your own prompt engineering prowess? We welcome your contributions! Please ensure that you adhere to the rules of this repository:
 
 1. Fork this repository and create your own enchanting branch.
-2. Add your experiment files (.txt or .md) and group them into appropriate categories.
+2. Add your experimental files and tinkerings and group them into appropriate categories.
 3. Submit a pull request, and let the repository's guardians review your contributions.
 
 ## 📃 License
