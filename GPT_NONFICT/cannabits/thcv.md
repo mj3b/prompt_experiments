@@ -1,3 +1,5 @@
+_Generated with GPT-4_
+
 THC-V: The Unsung Cannabinoid
 =============================
 
