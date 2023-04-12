@@ -1,6 +1,6 @@
 # A Whisker in Time
 
-This project generates a narrated video that combines AI-generated images in the style of Wassily Kandinsky with an AI-generated voiceover. The story follows Eleanor, a watchmaker, and her peculiar cat Chronos, as they experience a magical journey through time. The images are generated using OpenAI's DALL-E API, and the narration is synthesized using Google Cloud's Text-to-Speech API.
+This Python script generates a narrated video that combines AI-generated images in the style of Wassily Kandinsky with an AI-generated voiceover. The story follows Eleanor, a watchmaker, and her peculiar cat Chronos, as they experience a magical journey through time. The images are generated using OpenAI's DALL-E API, and the narration is synthesized using Google Cloud's Text-to-Speech API.
 
 ## Prerequisites
 
