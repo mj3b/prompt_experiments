@@ -49,11 +49,10 @@ Encyclopedic affordances allow for the creation of vast, interconnected, and det
 ##### 1.4 Spatial affordances:
 Spatial affordances permit the construction of navigable and immersive environments. Murray discusses the use of virtual reality and 3D graphics to create spatial narratives, allowing users to physically explore and interact with the story world. Examples include immersive virtual reality experiences, 3D video games, and augmented reality applications.
 
-##### The New Narrative Forms:
+#### The New Narrative Forms:
 Murray examines the emerging narrative forms that are made possible by these affordances. She discusses hypertext fiction, interactive drama, virtual reality, and video games as examples of new forms of storytelling that challenge traditional linear narrative structures.
 
-#### 2.1 Hypertext fiction:
-
+##### 2.1 Hypertext fiction:
 Hypertext fiction is a form of nonlinear storytelling that allows readers to navigate through interconnected pieces of text, creating their own narrative paths. Murray highlights works like Michael Joyce's "Afternoon, a story" and Shelley Jackson's "Patchwork Girl" as examples of this form, which invites readers to actively engage with the text and construct their own reading experience.
 
 ##### 2.2 Interactive drama:
