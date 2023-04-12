@@ -1,3 +1,5 @@
+_Generated with GPT-4_
+
 # Pioneering Cannabis Cultivars
 ![image](https://user-images.githubusercontent.com/129580588/231278901-708f1dae-d59d-4552-a260-6b2decdf7431.png)
 ## A Deep Dive into the Art and Science of Breeding Elite Strains
