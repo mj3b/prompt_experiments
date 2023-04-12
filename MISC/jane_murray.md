@@ -64,7 +64,7 @@ Virtual reality narratives immerse users in a fully realized virtual environment
 ##### 2.4 Video games:
 Murray discusses the potential of video games as a narrative form, exploring how the medium's interactive and immersive nature can provide unique storytelling experiences. She examines games like "Myst," "The Sims," and "Half-Life" as examples of how video games can blend traditional storytelling techniques with the affordances of digital media, creating engaging and dynamic narratives that invite players to actively participate in the story.
 
-##### 3	The Evolution of Storytelling:
+#### 3	The Evolution of Storytelling:
 Murray traces the historical development of storytelling, from oral narratives to written texts, and from print to electronic media. She argues that, despite the apparent differences in form and technology, the essence of storytelling remains unchanged.
 
 ##### 3.1 Oral narratives:
