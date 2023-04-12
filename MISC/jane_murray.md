@@ -4,9 +4,9 @@ Give me a detailed and specific expert comprehensive explanation of Hamlet on th
 
 ### **GPT-4:** 
 
-"Hamlet on the Holodeck: The Future of Narrative in Cyberspace" is a book written by Janet H. Murray, published in 1997. Murray, who is a professor and digital media theorist, explores the potential of digital media in transforming the way we tell stories and create narratives, specifically in the context of interactive storytelling.
+_Hamlet on the Holodeck: The Future of Narrative in Cyberspace_ is a book written by Janet H. Murray, published in 1997. Murray, who is a professor and digital media theorist, explores the potential of digital media in transforming the way we tell stories and create narratives, specifically in the context of interactive storytelling.
 
-The title itself, "Hamlet on the Holodeck," is a metaphorical concept that combines two seemingly unrelated elements: Shakespeare's famous play "Hamlet" and the "Holodeck," a virtual reality simulation room from the science fiction television series "Star Trek." By bringing these two ideas together, Murray aims to illustrate the convergence of high culture and popular culture, while also demonstrating the immense potential of digital technology in revolutionizing storytelling.
+The title itself, _Hamlet on the Holodeck,_ is a metaphorical concept that combines two seemingly unrelated elements: Shakespeare's famous play _Hamlet_ and the Holodeck, a virtual reality simulation room from the science fiction television series "Star Trek." By bringing these two ideas together, Murray aims to illustrate the convergence of high culture and popular culture, while also demonstrating the immense potential of digital technology in revolutionizing storytelling.
 
 In the book, Murray addresses four main aspects:
 
@@ -25,13 +25,13 @@ Murray traces the historical development of storytelling, from oral narratives t
 #### The Challenges and Ethical Considerations:
 Lastly, Murray discusses the challenges that arise from these new narrative forms and the ethical considerations that come with them. She raises concerns about the potential for manipulation, loss of authorship, and the blurring of boundaries between reality and fiction. Additionally, she addresses the responsibilities of both creators and consumers of digital narratives in shaping the future of storytelling.
 
-In conclusion, "Hamlet on the Holodeck" provides a thought-provoking and comprehensive examination of the potential of digital media to revolutionize storytelling. Janet Murray highlights the unique affordances of digital technology and explores the new narrative forms that emerge from them, while also considering the challenges and ethical implications that come with these innovations. The book remains an influential work in the fields of digital media, interactive storytelling, and game studies.
+In conclusion, _Hamlet on the Holodeck_ provides a thought-provoking and comprehensive examination of the potential of digital media to revolutionize storytelling. Janet Murray highlights the unique affordances of digital technology and explores the new narrative forms that emerge from them, while also considering the challenges and ethical implications that come with these innovations. The book remains an influential work in the fields of digital media, interactive storytelling, and game studies.
 
 ### **gitnomad:** good. please go back and recursively add two levels of detail throughout
 
 ### **GPT-4:**
 
-"Hamlet on the Holodeck: The Future of Narrative in Cyberspace" is a book written by Janet H. Murray, published in 1997. Murray, a professor and digital media theorist, explores the potential of digital media in transforming the way we tell stories and create narratives, specifically in the context of interactive storytelling. The book is divided into four main sections, each addressing a different aspect of the potential of digital media in storytelling.
+_Hamlet on the Holodeck: The Future of Narrative in Cyberspace_ is a book written by Janet H. Murray, published in 1997. Murray, a professor and digital media theorist, explores the potential of digital media in transforming the way we tell stories and create narratives, specifically in the context of interactive storytelling. The book is divided into four main sections, each addressing a different aspect of the potential of digital media in storytelling.
 
 #### The Affordances of Digital Media:
 
@@ -98,7 +98,7 @@ Murray also addresses the ethical implications of immersive and augmented realit
 
 Murray emphasizes the responsibilities of both creators and consumers of digital narratives in shaping the future of storytelling. She encourages creators to embrace the affordances of digital media while remaining mindful of their ethical implications, and urges consumers to engage critically with these new narrative forms, recognizing their potential to transform our understanding of storytelling.
 
-In conclusion, "Hamlet on the Holodeck" provides a thought-provoking and comprehensive examination of the potential of digital media to revolutionize storytelling. Janet Murray highlights the unique affordances of digital technology and explores the new narrative forms that emerge from them, while also considering the challenges and ethical implications that come with these innovations. The book remains an influential work in the fields of digital media, interactive storytelling, and game studies.
+In conclusion, _Hamlet on the Holodeck_ provides a thought-provoking and comprehensive examination of the potential of digital media to revolutionize storytelling. Janet Murray highlights the unique affordances of digital technology and explores the new narrative forms that emerge from them, while also considering the challenges and ethical implications that come with these innovations. The book remains an influential work in the fields of digital media, interactive storytelling, and game studies.
 
 ### GPT's pull of quotes from _Hamlet and the Holodeck_
 
