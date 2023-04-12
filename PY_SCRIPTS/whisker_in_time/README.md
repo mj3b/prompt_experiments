@@ -17,8 +17,8 @@ Before running the script, make sure you have the following:
 ## Running the script
 
 1. Clone the repository and navigate to the `a_whisker_in_time` folder.
-2. Open the `a_whisker_in_time.py` file and replace `[/PATH/TO/YOUR/CREDENTIALS.json]` with the path to your Google Cloud JSON key file and `[YOUR_OPENAI_API_KEY]` with your OpenAI API key.
-3. Save the changes and run the script using the command `python a_whisker_in_time.py`.
+2. Open the `whisker_in_time.py` file and replace `[/PATH/TO/YOUR/CREDENTIALS.json]` with the path to your Google Cloud JSON key file and `[YOUR_OPENAI_API_KEY]` with your OpenAI API key.
+3. Save the changes and run the script using the command `python whisker_in_time.py`.
 4. The script will generate a series of images and an audio narration, and it will then combine them into a video. The output files will be saved in the same folder with timestamped names.
 
 ## Customization
