@@ -36,5 +36,5 @@ Are you eager to share your own prompt engineering expertise? We wholeheartedly 
 
 This repository is protected by the MIT License. Use this knowledge responsibly.
 
-_(written in collaboration with GPT_4)_
+_(written in collaboration with GPT-4)_
 
