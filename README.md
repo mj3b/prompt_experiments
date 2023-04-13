@@ -1,40 +1,31 @@
-# Prompt Explorations 🎯
+# GPT-4 Portfolio
 
-Welcome to this repository dedicated to the fascinating world of (aspirational) prompt engineering! Here, you will find an eclectic collection of creations, deep learning explorations, and demonstrations of AI capabilities. As an IELTS teacher, I've just started exploring this field, but I'm excited to share my journey with you. Rest assured, the path ahead has been thoughtfully designed for your convenience. 🌟
+Welcome to my GPT-4 portfolio! This repository contains a collection of projects and experiments showcasing my work with the GPT-4 model by OpenAI. I am an IELTS teacher with an interest in prompt engineering, and I've used GPT-4 to create various content types, including text, markdown, mp4 videos, and Python scripts.
 
-## Table of Contents
+## Contents
 
-1. Introduction
-2. Experiments
-3. How to Contribute
-4. License
+This repository is organized into the following folders and files:
 
-## 🌟 Introduction
+1. `fiction/`: Contains a murder mystery dinner show written with the help of GPT-4.
+2. `non-fiction/`: Contains examples of GPT-4-generated content for a cannabis blog, including articles and an intro video.
+3. `dalle-video-script/`: Contains a Python script that takes a narrative and visual prompts to generate a Dall-E generated video. Sample outputs are also included.
+4. `iterative_interactions.md`: A markdown file demonstrating my iterative interactions with GPT-4, where I ask the AI model to add recursive details to a previous response.
+5. `summarizations/`: (Coming soon) This folder will contain text summarizations done with a text refinement script plus BERT extractive summarizer, and post-processed with OpenAI's Davinci model.
 
-This repository contains a diverse array of prompt engineering experiments, crafted with enthusiasm and a beginner's curiosity. By delving into these pages, you will gain a deeper understanding of the enigmatic world of AI, empowering you to hone your creative skills. Fear not, newcomers, as the knowledge offered here is accessible to all who seek it, regardless of expertise.
+In addition to the content in this repository, you can also find more videos generated using similar techniques on my TikTok/Instagram account: [ChatGPTdreams](https://www.example.com/ChatGPTdreams).
 
-## 🔍 Experiments
+For more examples of my work, check out my Fiverr profile at [llmscribe](https://www.fiverr.com/llmscribe) and the "ShogScript" pseudocode repo on GitHub: [ShogScript](https://github.com/gitnomad24601/ShogScript), which has a couple of fun story-engine prompts in a proof-of-concept pseudocode for narrative-generation.
 
-In an ongoing effort to improve the learning experience, I have started including prompts within the .txt and .md files. For .py files and .mp4 output files, you will find a dedicated README file with the necessary prompts and explanations. The experiments are organized into three categories:
+## Usage
 
-1. GPT_NONFICT 🌐
-2. GPT_FICTION 🕊️
-3. MISC 🔮
-4. PY_SCRIPTS 🌿
+To explore this repository, simply navigate to the folder or file you're interested in and view the content. You'll find a mix of text, markdown, mp4 videos, and Python scripts.
 
-This new approach ensures that you can fully appreciate the context and intent behind each experiment, enabling you to learn more effectively.
+Please note that this repository is intended to showcase my work with GPT-4 and is not a tutorial on how to use the GPT-4 model itself. If you're interested in learning more about GPT-4, please refer to the [OpenAI website](https://www.openai.com/).
 
-## 🤝 How to Contribute
+## Contribution
 
-Are you eager to share your own prompt engineering expertise? We wholeheartedly welcome your contributions! Please ensure that you adhere to the guidelines of this repository:
+While I appreciate your interest in my work, this repository is not currently accepting contributions. If you have any questions or would like to discuss my projects, please feel free to open an issue or contact me directly.
 
-1. Fork this repository and create your own unique branch.
-2. Add your experimental files and innovative insights, organizing them into their respective categories.
-3. Submit a pull request, and allow the repository's moderators to review your contributions.
+## License
 
-## 📜 License
-
-This repository is protected by the MIT License. Use this knowledge responsibly.
-
-_(written in collaboration with GPT-4)_
-
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
