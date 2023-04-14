@@ -7,7 +7,7 @@ Welcome to my GPT-4 portfolio! This repository contains a collection of projects
 This repository is organized into the following folders and files:
 
 1. `fiction/`: Contains a murder mystery dinner show written with the help of GPT-4.
-2. `non-fiction/`: Contains examples of GPT-4-generated content for a fully AI-generated proof-of-concept cannabis blog, including articles, images from Stable Diffusion, and Dall-E intro video (with monologue and Python script to compile the video written by GPT-4).
+2. `non-fiction/`: Contains examples of GPT-4-generated content for a fully AI-generated proof-of-concept cannabis blog, including articles, images from Stable Diffusion, and Dall-E intro video (with monologue and Python script to compile the video written with GPT-4).
 3. `dalle-video-script/`: Contains a Python script that takes a GPT-4-generated narrative and visual prompts to compile a video with text-to-speech and images from DALL-E. Sample output MP4s are also included.
 4. `iterative_interactions.md`: A markdown file demonstrating iterative interactions with GPT-4, where I ask the AI model to add recursive details to a previous response.
 5. `summarizations/`: (Coming soon) This folder will contain text summarizations done with a text refinement script plus BERT extractive summarizer, and post-processed with OpenAI's text-davinci-003 model.
