@@ -28,4 +28,4 @@ While I appreciate your interest in my work, this repository is not currently ac
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file in this repository for more information.
