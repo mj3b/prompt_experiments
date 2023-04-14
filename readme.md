@@ -1,6 +1,6 @@
 # GPT-4 Portfolio
 
-Welcome to my GPT-4 portfolio! This repository contains a collection of projects and experiments showcasing my work with the GPT-4 model by OpenAI. I am an IELTS teacher with an interest in prompt engineering, and I've used GPT-4 to create various content types, including text, markdown, mp4 videos, and Python scripts.
+Welcome to my GPT-4 portfolio! This repository contains a collection of projects and experiments showcasing my work with the GPT-4 model by OpenAI. I am an IELTS teacher with an interest in prompt engineering, and I've used ChatGPT Plus to generate text and Python scripts.
 
 ## Contents
 
