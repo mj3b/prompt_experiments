@@ -8,9 +8,9 @@ This repository is organized into the following folders and files:
 
 1. `fiction/`: Contains a murder mystery dinner show written with the help of GPT-4.
 2. `non-fiction/`: Contains examples of GPT-4-generated content for a fully AI-generated proof-of-concept cannabis blog, including articles, images from Stable Diffusion, and a Dall-E intro video.
-3. `dalle-video-script/`: Contains a Python script that takes a GPT-4-generated narrative and visual prompts to generate a Dall-E generated video. Sample outputs are also included.
-4. `iterative_interactions.md`: A markdown file demonstrating my iterative interactions with GPT-4, where I ask the AI model to add recursive details to a previous response.
-5. `summarizations/`: (Coming soon) This folder will contain text summarizations done with a text refinement script plus BERT extractive summarizer, and post-processed with OpenAI's Davinci model.
+3. `dalle-video-script/`: Contains a Python script that takes a GPT-4-generated narrative and visual prompts to compile a video with text-to-speech and images from DALL-E. Sample output MP4s are also included.
+4. `iterative_interactions.md`: A markdown file demonstrating iterative interactions with GPT-4, where I ask the AI model to add recursive details to a previous response.
+5. `summarizations/`: (Coming soon) This folder will contain text summarizations done with a text refinement script plus BERT extractive summarizer, and post-processed with OpenAI's text-davinci-003 model.
 
 In addition to the content in this repository, you can also find more videos generated using similar techniques on [TikTok](https://www.tiktok.com/@chatgpt4_dreams), [Twitter](https://twitter.com/ChatGPT_dreams), and [Instagram](https://instagram.com/chatgpt_dreams).
 
