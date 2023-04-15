@@ -168,7 +168,7 @@ As for the trochaic stress patterns, we can observe some examples throughout the
 However, it's important to note that the poem doesn't strictly follow a trochaic pattern. The presence of these trochaic examples contributes to the sense of urgency and insistence in the poem, but the overall structure remains free verse with no strict metrical pattern.
 
 ### gitnomad24601:
-Ok I think you're going to need to look back and your work and check your understanding of English stress patternings? Let's start over and I want you to put the poem in full IPA phonetic script
+Ok I think you're going to need to look back on your work and check your understanding of English stress patternings? Let's start over and I want you to put the poem in full IPA phonetic script
 
 ### GPT-4
 I apologize for any confusion in my previous responses. Here is the poem "relentless as the tarantula" transcribed in the International Phonetic Alphabet (IPA) to represent the phonetic pronunciation of the text:
