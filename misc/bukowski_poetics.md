@@ -1,4 +1,4 @@
-_n.b. GPT-4 really struggles with alliteration, though it does semi-OK with sentence stress in a poem if you lead it by the nose. Interestingly, correctly identifying sentence stress is also an area where the majority of native English speakers really struggle -- it's all so natural to us that it is difficult to reflect on and "hear."_
+_n.b. GPT-4 really struggles with alliteration, though it does semi-OK with sentence stress in a poem if you lead it by the nose. Interestingly, correctly identifying sentence stress is also an area where the majority of native English speakers really struggle -- it's all so natural to us that it is difficult to reflect on and register._
 
 ### gitnomad24601:
 Give me an expert analysis (including a linguistic-poetic analysis) of Bukowski's "relentless as the tarantula." Here it is for reference:
