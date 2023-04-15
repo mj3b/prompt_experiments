@@ -173,6 +173,7 @@ Ok I think you're going to need to look back on your work and check your underst
 ### GPT-4
 I apologize for any confusion in my previous responses. Here is the poem "relentless as the tarantula" transcribed in the International Phonetic Alphabet (IPA) to represent the phonetic pronunciation of the text:
 
+```
 ðeɪr nɑt ˈɡoʊɪŋ tə ˈlɛt ju
 sɪt æt ə frʌnt ˈteɪbl̩
 æt səm ˈkæfeɪ ɪn ˈjʊrəp
@@ -227,6 +228,7 @@ raɪt naʊ, ænd
 aɪ ˈmin ju
 ænd ˈnoʊbədi bət
 ju.
+```
 
 Please note that the IPA transcription provided is an approximation of the poem's pronunciation based on General American English accent. The pronunciation may vary slightly depending on regional accents or the poet's intended pronunciation.
 
