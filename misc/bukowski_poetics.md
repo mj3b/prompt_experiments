@@ -518,4 +518,4 @@ and NObody BUT|
 you.
 ```
 
-_(For those unfamiliar with English stress patterning... this is still rough and not quite right, but a useful demonstration of where GPT-4 struggles / would need more fine-tuning)_
+_(For those unfamiliar with English stress patterning... this is still rough and not quite right as far as a more natural reading of the poem, but a useful demonstration of where GPT-4 struggles / would need more fine-tuning)_
