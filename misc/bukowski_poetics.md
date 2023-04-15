@@ -452,4 +452,6 @@ you.
 
 Please note that stress patterns in spoken language can vary depending on the speaker and the context. The capitalization I provided represents one possible interpretation of the stress patterns in the poem.
 
+---
+
 _(For those unfamiliar with English stress patterning... this is still rough and not quite right as far as a more natural reading of the poem, but a useful demonstration of where GPT-4 struggles / would need more fine-tuning)_
