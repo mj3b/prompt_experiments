@@ -296,7 +296,7 @@ ju.
 
 ```
 ðeɪr **nɑt** ˈɡoʊɪŋ tə **lɛt** ju
-**sɪt** æt ə **frʌnt** **ˈteɪbl̩**
+**sɪt** æt ə **frʌnt** **ˈteɪ**bl̩
 æt **səm** **ˈkæ**feɪ ɪn **ˈjʊr**əp
 ɪn ðə mɪd*ˈæft**ərˌnun **sʌn**.
 ɪf ju **du**, **ˈsʌm**bədiːz ˈɡoʊɪŋ tə
@@ -312,7 +312,7 @@ Thank you for your patience and guidance. I will provide the poem with the stres
 
 ```
 ðeɪr **nɑt** ˈɡoʊɪŋ tə **lɛt** ju
-**sɪt** æt ə **frʌnt** **ˈteɪbl̩**
+**sɪt** æt ə **frʌnt** **ˈteɪ**bl̩
 æt **səm** **ˈkæfeɪ** ɪn **ˈjʊr**əp
 ɪn ðə **mɪd**ˈæftərˌnun **sʌn**.
 ɪf ju **du**, **ˈsʌm**bədiːz ˈɡoʊɪŋ tə
