@@ -233,66 +233,7 @@ ju.
 Please note that the IPA transcription provided is an approximation of the poem's pronunciation based on General American English accent. The pronunciation may vary slightly depending on regional accents or the poet's intended pronunciation.
 
 ### gitnomad24601:
-Good. General American Accent is fine. Ok, now that we have a proper phonetic transcription of the poem (here it is for your review:
-
-```
-ðeɪr nɑt ˈɡoʊɪŋ tə ˈlɛt ju
-sɪt æt ə frʌnt ˈteɪbl̩
-æt səm ˈkæfeɪ ɪn ˈjʊrəp
-ɪn ðə mɪdˈæftərˌnun sʌn.
-ɪf ju du, ˈsʌmbədiːz ˈɡoʊɪŋ tə
-draɪv baɪ ænd
-spreɪ jɔr ɡʌts wɪð ə
-sʌbməˈʃin ɡʌn.
-
-ðeɪr nɑt ˈɡoʊɪŋ tə ˈlɛt ju
-fil ɡʊd
-fər ˈvɛri lɔŋ
-ˈɛniˌwɛr.
-ðə ˈfɔrsɪz ɑrnt ˈɡoʊɪŋ tə
-lɛt ju sɪt əˈraʊnd
-ˈfʌkɪŋˈɔf ænd
-rɪˈlæksɪŋ.
-juv ɡɑt tə ɡoʊ
-ðer weɪ.
-
-ðə ʌnˈhæpi, ðə ˈbɪtər ænd
-ðə ˈvɛndʒfəl
-nid ðer
-fɪks - wɪʧ ɪz
-ju ɔr ˈsʌmbədi
-ˈɛnibədi
-ɪn ˈæɡəni, ɔr
-ˈbɛtər jɛt
-ded, drɔpt ˈɪntu səm
-hoʊl.
-
-əz lɔŋ əz ðer ɑr
-ˈhjumənz əˈbaʊt
-ðer ɪz ˈnɛvər ˈɡoʊɪŋ tə bi
-ˈɛni pis
-fər ˈɛni ɪnˌdɪvɪdʒuəl
-əˈpɔn ðɪs ɜrθ ɔr
-ˈɛniwɛr ɛls
-ðeɪ maɪt
-ɪsˈkeɪp tə.
-
-ɔl ju kæn du
-ɪz ˈmeɪbi ɡræb
-tɛn ˈlʌki ˈmɪnɪts
-hɪr
-ɔr ˈmeɪbi ən aʊr
-ðɛr.
-
-ˈsʌmθɪŋ
-ɪz ˈwɜrkɪŋ ˈtɔrd ju
-raɪt naʊ, ænd
-aɪ ˈmin ju
-ænd ˈnoʊbədi bət
-ju.
-```
-
-), let's take another whack at a mapping of the natural language stress patterns of the phrases and sentences in the poem. I want you to put the phonetic transcription in a code block and use markdown to put the stressed syllables in bold. For example:
+Good. General American Accent is fine. Ok, now that we have a proper phonetic transcription of the poem, let's take another whack at a mapping of the natural language stress patterns of the phrases and sentences in the poem. I want you to put the phonetic transcription in a code block and use markdown to put the stressed syllables in bold. For example:
 
 ```
 ðeɪr **nɑt** ˈɡoʊɪŋ tə **lɛt** ju
@@ -447,54 +388,7 @@ ju.
 This revised transcription should better reflect the natural stress patterns in spoken English. Please keep in mind that stress patterns can still vary depending on a reader's interpretation or regional accent.
 
 ### gitnomad24601:
-Good. You're getting better at identify natural English stress patterns. Let's review what you've written:
-
-```
-ðeɪr **nɑt** ˈɡoʊɪŋ tə **lɛt** ju
-**sɪt** æt ə **frʌnt** **ˈteɪbl̩**
-æt **səm** **ˈkæfeɪ** ɪn **ˈjʊr**əp
-ɪn ðə **mɪd**ˈæftərˌnun **sʌn**.
-ɪf ju **du**, **ˈsʌm**bədiːz ˈɡoʊɪŋ tə
-**draɪv** baɪ ænd
-**spreɪ** jɔr **ɡʌts** wɪð ə
-**sʌb**mə**ˈʃin** ɡʌn.
-
-ðeɪr **nɑt** ˈɡoʊɪŋ tə **lɛt** ju
-**fil** ɡʊd
-**fər** ˈvɛri **lɔŋ**
-ˈɛniˌwɛr.
-ðə **ˈfɔrsɪz** ɑrnt ˈɡoʊɪŋ tə
-**lɛt** ju **sɪt** əˈraʊnd
-**ˈfʌk**ɪŋˈɔf ænd
-rɪ**ˈlæks**ɪŋ.
-juv **ɡɑt** tə **ɡoʊ**
-ðer **weɪ**.
-
-ðə **ʌn**ˈhæpi, ðə **ˈbɪt**ər ænd
-ðə **ˈvɛn**ʒfəl
-**nid** ðer
-**fɪks** - wɪʧ **ɪz**
-ju **ɔr** ˈsʌmbədi
-ˈɛnibədi
-ɪn **ˈæɡ**əni, ɔr
-**ˈbɛt**ər **jɛt**
-**ded**, **drɔpt** ˈɪntu **səm**
-**hoʊl**.
-
-əz **lɔŋ** əz ðer **ɑr**
-ˈhjumənz əˈbaʊt
-ðer ɪz **ˈnɛv**ər ˈɡoʊɪŋ tə **bi**
-ˈɛni **pis**
-**fər** ˈɛni ɪnˌdɪvɪdʒuəl
-əˈpɔn ðɪs **ɜrθ** ɔr
-ˈɛniwɛr **ɛls**
-ðeɪ **maɪt**
-ɪsˈkeɪp tə.
-
-**ɔl**
-```
-
-Now, I want you to take that and put it back into normal English writing, and put our syllables that you identifies as the stress pattern into capital letters
+Good. You're getting better at identify natural English stress patterns. Now, I want you to take that and put it back into normal English writing, and put our syllables that you identifies as the stress pattern into capital letters
 
 ### GPT-4
 Here is the poem with the stressed syllables in capital letters:
