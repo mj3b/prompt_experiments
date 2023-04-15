@@ -234,7 +234,7 @@ Please note that the IPA transcription provided is an approximation of the poem'
 
 ### gitnomad24601:
 Good. General American Accent is fine. Ok, now that we have a proper phonetic transcription of the poem (here it is for your review:
-(
+
 ```
 ðeɪr nɑt ˈɡoʊɪŋ tə ˈlɛt ju
 sɪt æt ə frʌnt ˈteɪbl̩
