@@ -12,7 +12,7 @@ This repository is organized into the following folders and files:
 4. `iterative_interactions.md`: A markdown file demonstrating iterative interactions with GPT-4, where I ask the AI model to add recursive details to a previous response.
 5. `summarizations/`: (Coming soon) This folder will contain text summarizations done with a text refinement script plus BERT extractive summarizer, and post-processed with OpenAI's text-davinci-003 model.
 
-In addition to the content in this repository, you can also find more videos generated using similar techniques on [TikTok](https://www.tiktok.com/@chatgpt4_dreams), [Twitter](https://twitter.com/ChatGPT_dreams), and [Instagram](https://instagram.com/chatgpt_dreams).
+In addition to the content in this repository, you can also find more videos generated using similar techniques on [TikTok](https://www.tiktok.com/@llmscribe), [Twitter](https://twitter.com/llmscribe), and [Instagram](https://instagram.com/llmscribe).
 
 For more examples of my work, check out my Fiverr profile at [llmscribe](https://www.fiverr.com/llmscribe) and the "ShogScript" pseudocode repo on GitHub: [ShogScript](https://github.com/gitnomad24601/ShogScript), which has a couple of fun story-engine prompts in a proof-of-concept pseudocode for narrative-generation.
 
