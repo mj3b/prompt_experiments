@@ -1,5 +1,5 @@
 ### gitnomad24601:
-From Anti-Oedipus: “The alliance-debt answers to what Nietzsche described as humanity’s prehistoric labor: the use of the cruelest mnemotechnics, in naked flesh, to impose a memory of words founded on the ancient biocosmic memory.” Can you give me the relevant, extended passages from Nietzsche that they’re referencing?
+From _Anti-Oedipus_: “The alliance-debt answers to what Nietzsche described as humanity’s prehistoric labor: the use of the cruelest mnemotechnics, in naked flesh, to impose a memory of words founded on the ancient biocosmic memory.” Can you give me the relevant, extended passages from Nietzsche that they’re referencing?
 
 ### GPT-4:
 The passage from Deleuze and Guattari's "Anti-Oedipus" that you mention refers to Nietzsche's ideas about memory, debt, and punishment in his work "On the Genealogy of Morals," specifically the Second Essay, titled "Guilt, Bad Conscience, and Related Matters."
