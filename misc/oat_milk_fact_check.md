@@ -54,7 +54,8 @@ It is important to note that these calculations are based on several assumptions
 ### gitnomad24601:
 Does oat milk with rapeseed oil impact your blood sugar?
 
-### GPT-4: Oat milk with rapeseed oil can have an impact on blood sugar levels, but the effect is mostly due to the carbohydrates present in the oats rather than the rapeseed oil itself. Rapeseed oil, as a source of fat, has minimal impact on blood sugar levels. However, the carbohydrates in oats can raise blood sugar levels, especially if the oat milk contains added sugars or sweeteners.
+### GPT-4: 
+Oat milk with rapeseed oil can have an impact on blood sugar levels, but the effect is mostly due to the carbohydrates present in the oats rather than the rapeseed oil itself. Rapeseed oil, as a source of fat, has minimal impact on blood sugar levels. However, the carbohydrates in oats can raise blood sugar levels, especially if the oat milk contains added sugars or sweeteners.
 
 Oats contain soluble fiber, particularly beta-glucan, which can help slow down the absorption of sugar in the bloodstream, resulting in a more gradual increase in blood sugar levels. However, the processing methods used to make oat milk can break down some of this soluble fiber, which may reduce its ability to moderate blood sugar spikes.
 
