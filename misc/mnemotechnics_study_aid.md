@@ -50,7 +50,7 @@ Through this process, memory functions as a critical mechanism in shaping human 
 ### gitnomad24601:
 This reminds me of how you and other LLMs are trained up with Reinforcement Learning.
 
-### GPT-4
+### GPT-4:
 There is indeed a parallel between Nietzsche's concept of "the cruelest forms of punishment (mnemotechnics)" and the training process of large language models (LLMs) like me through Reinforcement Learning (RL). While the context and ethical considerations are vastly different, both processes involve learning from experience and adjusting behavior to achieve better outcomes.
 
 Reinforcement Learning is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent receives feedback in the form of rewards or penalties based on its actions, and its goal is to maximize the cumulative rewards over time. This learning process is guided by the principle of trial and error, where the agent explores different actions, observes their outcomes, and adjusts its behavior to improve its performance.
