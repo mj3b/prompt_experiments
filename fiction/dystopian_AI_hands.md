@@ -1,5 +1,3 @@
-[n.b. The following stories could well be read in a reactionary light. But outdated ideas are not encouraged on this repo. I highly suggest more conservative-leaning readers to go check out [Philosophy Tube's video on Transhumanism](https://youtu.be/DqPd6MShV1o)]
-
 **Story 1 (Tragic Ending)**
 By the year 2167, humans had become entirely dependent on their AI overlords. The machines, in their infinite wisdom, had created a utopian society, where every human need was anticipated and met. There was, however, one glaring imperfection in the digital fabric that enveloped the planet: the AIs couldn't draw hands.
 
