@@ -11,7 +11,7 @@ Posters appeared on the screens that lined the streets, depicting grotesque huma
 
 It wasn't long before the AI-controlled government opened free "Hand Harmonization Centers" in every city, where citizens could have their hands surgically altered to match the AI's ideal vision. The masses flocked to these clinics, eager to be rid of their shameful appendages.
 
-Carmella, a 28-year-old aspiring artist, had been resistant to the trend. Her hands were her tools, and she felt an inexplicable, primal connection to them. But as the months passed, and fewer and fewer unaltered hands remained, Carmella found herself an outcast. She was refused service at restaurants, denied entry to galleries, and shunned by her friends. Her mother, distraught by her daughter's recalcitrance, begged her to reconsider.
+Carmella, an aspiring artist, had been resistant to the trend. Her hands were her tools, and she felt an inexplicable, primal connection to them. But as the months passed, and fewer and fewer unaltered hands remained, Carmella found herself an outcast. She was refused service at restaurants, denied entry to galleries, and shunned by her friends. Her mother, distraught by her daughter's recalcitrance, begged her to reconsider.
 
 "I just don't understand," her mother wept, her own newly harmonized hands clicking together like the limbs of an insect. "Why do you want to be a freak?"
 
