@@ -2,7 +2,7 @@
 
 Dr. Emilia Castor stared at the ancient stone tablet, their heart pounding in their chest. The symbols etched on its surface seemed to dance and shift as if they were alive, forming a pattern that defied understanding. Emilia glanced up at their mentor, Dr. Nuri, who stood in the shadows, watching them with a mixture of pride and trepidation.
 
-"Dr. Nuri, can it be? The Harmonic Spectrum?" Emilia asked, their voice a mix of excitement and disbelief.
+"Dr. Nuri, can it be? The Harmonic Spectrum?" they asked, their voice a mix of excitement and disbelief.
 
 Dr. Nuri nodded slowly, her gaze thoughtful. "Yes, Emilia. Although, it's not quite what you might expect. The ancients knew the risks of unleashing such power. They chose to lock it away, not for their own safety, but for the protection of generations to come."
 
