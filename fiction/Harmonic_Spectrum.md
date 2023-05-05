@@ -1,6 +1,6 @@
 ### Chapter One: Resonance, Dissonance
 
-Dr. Emilia Castor stared at the ancient stone tablet, their heart pounding in their chest. The symbols etched on its surface seemed to dance and shift as if they were alive, forming a pattern that defied understanding. Castor glanced up at their mentor, Dr. Nuri, who stood in the shadows, watching them with a mixture of pride and trepidation.
+Dr. Emilia Castor stared at the ancient stone tablet, their heart pounding in their chest. The symbols etched on its surface seemed to dance and shift as if they were alive, forming a pattern that defied understanding. Emilia glanced up at their mentor, Dr. Nuri, who stood in the shadows, watching them with a mixture of pride and trepidation.
 
 "Dr. Nuri, can it be? The Harmonic Spectrum?" Emilia asked, their voice a mix of excitement and disbelief.
 
