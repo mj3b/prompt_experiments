@@ -4,7 +4,7 @@
 Can you provide me with a table listing the main specs differences between the Google Pixel 6A and the newly released Pixel 7A?
 
 ### ChatGPT-3 with Web Browsing 
-[_3 separate attempts were made to generate an answer. 3 times ChatGPT got stuck @ "Clicked a link," or "Reading content," without generating any output_]
+[_3 separate attempts were made to generate an answer. Each time, ChatGPT got stuck @ "Clicked a link," or "Reading content," without generating any output_]
 
 
 ### BARD
