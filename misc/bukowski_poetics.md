@@ -164,7 +164,7 @@ As for the trochaic stress patterns, we can observe some examples throughout the
 - "UNhappy, the BITter"
 - "VENGeful NEED"
 - "HUmans ABOUt"
-- 
+ 
 However, it's important to note that the poem doesn't strictly follow a trochaic pattern. The presence of these trochaic examples contributes to the sense of urgency and insistence in the poem, but the overall structure remains free verse with no strict metrical pattern.
 
 ### gitnomad24601:
